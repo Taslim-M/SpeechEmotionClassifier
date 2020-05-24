@@ -1,7 +1,7 @@
 # SpeechEmotionClassifier
 Identify 6-classes of emotion based on audio (speech) signal. Using Mel spectrogram to capture speech features and a CNN architecture for feature extraction
 
-The best model is Model3B.ipynb - Please open the jupyter notebook to view the architecture and results. The Confusion Matrix, Classification Report and Validation results are present in all models.
+The best model is Model2.ipynb - Please open the jupyter notebook to view the architecture and results. The Confusion Matrix, Classification Report and Validation results are present in all models.
 
 The Model 1 are transfer learning models - just an attempt to examine how spectrogram performs with existing image models.
 
